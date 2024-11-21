@@ -1,0 +1,14 @@
+body{
+    background: #334274;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    background: white;
+}
+#principal {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px;
+}
